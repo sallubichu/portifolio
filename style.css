@@ -1,0 +1,24 @@
+.container {
+    width: 80%;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.testimonial {
+    margin-bottom: 30px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: #f9f9f9;
+}
+.testimonial h3 {
+    margin-top: 0;
+}
+.testimonial p {
+    font-style: italic;
+    color: #666;
+    margin-bottom: 0;
+}
+.testimonial-author {
+    font-weight: bold;
+}
